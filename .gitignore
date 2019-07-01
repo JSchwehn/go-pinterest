@@ -18,3 +18,4 @@ vendor/*
 pinterest-go-client
 /demo/demo
 /demo/credentials.go
+/demo/
